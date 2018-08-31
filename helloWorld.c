@@ -1,4 +1,4 @@
-/*Hello to Resin.io*/
+/* Hello to Resin.io */
 #include <stdio.h>
 
 void main()
